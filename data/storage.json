@@ -1,0 +1,78 @@
+{
+    "1": {
+        "nombre": "real madrid",
+        "personal": {},
+        "jugadores": {},
+        "estadisticas": {
+            "partidosJugados": 0,
+            "partidosGanados": 0,
+            "partidosPerdidos": 0,
+            "partidosEmpatados": 0,
+            "golesAFavor": 0,
+            "golesEnContra": 0,
+            "totalPuntos": 0,
+            "partidosLocal": 0,
+            "partidosVisitante": 0
+        }
+    },
+    "2": {
+        "nombre": "barcelona",
+        "personal": {},
+        "jugadores": {
+            "1": {
+                "nombre": "pedro",
+                "numero": "12",
+                "posicion": "wfe",
+                "estadisticas": {
+                    "golesAnotados": 0,
+                    "tarjetasAmarillas": 0,
+                    "tarjetasRojas": 0,
+                    "totalFaltas": 0
+                }
+            }
+        },
+        "estadisticas": {
+            "partidosJugados": 0,
+            "partidosGanados": 0,
+            "partidosPerdidos": 0,
+            "partidosEmpatados": 0,
+            "golesAFavor": 0,
+            "golesEnContra": 0,
+            "totalPuntos": 0,
+            "partidosLocal": 0,
+            "partidosVisitante": 0
+        }
+    },
+    "3": {
+        "nombre": "a",
+        "personal": {},
+        "jugadores": {},
+        "estadisticas": {
+            "partidosJugados": 1,
+            "partidosGanados": 0,
+            "partidosPerdidos": 1,
+            "partidosEmpatados": 0,
+            "golesAFavor": 2,
+            "golesEnContra": 3,
+            "totalPuntos": 0,
+            "partidosLocal": 1,
+            "partidosVisitante": 0
+        }
+    },
+    "4": {
+        "nombre": "b",
+        "personal": {},
+        "jugadores": {},
+        "estadisticas": {
+            "partidosJugados": 1,
+            "partidosGanados": 1,
+            "partidosPerdidos": 0,
+            "partidosEmpatados": 0,
+            "golesAFavor": 3,
+            "golesEnContra": 2,
+            "totalPuntos": 3,
+            "partidosLocal": 0,
+            "partidosVisitante": 1
+        }
+    }
+}
