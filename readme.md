@@ -25,5 +25,5 @@ Liga BetPlay es un proyecto que consiste en la creación de un sistema de contro
 
 Para el correcto funcionamiento del sistema de almacenamiento JSON, la consola del usuario debe estar ubicada dentro de la carpeta del proyecto
    ```bash
-   cd ligabetPlay
+   cd ligaBetPlay
    ```
